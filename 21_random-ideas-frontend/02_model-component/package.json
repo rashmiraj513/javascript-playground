@@ -1,0 +1,19 @@
+{
+  "name": "02_model-component",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Rashmi Raj",
+  "license": "MIT",
+  "description": "A basic Rest API for Random Ideas",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3"
+  }
+}
+
