@@ -1,0 +1,19 @@
+{
+  "name": "05_webpack-basic-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Rashmi Raj",
+  "license": "ISC",
+  "description": "A simple boilerplate for creating apps using Webpack tooling",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
