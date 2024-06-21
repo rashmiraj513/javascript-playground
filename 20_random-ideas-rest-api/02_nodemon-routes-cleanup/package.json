@@ -1,0 +1,17 @@
+{
+  "name": "02_nodemon-routes-cleanup",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Rashmi Raj",
+  "license": "MIT",
+  "description": "A basic Rest API for Random Ideas",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
