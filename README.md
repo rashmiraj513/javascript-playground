@@ -8,11 +8,11 @@ Welcome to my JavaScript Learning repository! This repository is dedicated to he
 - Variables and Data Types
 - Arrays and Objects
 - Functions and Scope
-- Logical Control Flow
-- Iterative Array Methods
+- Logic and Control Flow
+- Loops and High Order Array Methods
 - Document Object Model (DOM)
 - Events
-- Asynchronous JavaScript
+- Asynchronous JavaScript (Promises)
 - Fetch, Async and Await
 - Web Browser APIs
 - OOP Constructors and Prototypes
