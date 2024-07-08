@@ -25,7 +25,7 @@ function subtract(num_1, num_2) {
   console.log('After the return');
 }
 
-// Assign the returned value to a variable and then the variable can be used 
+// Assign the returned value to a variable and then the variable can be used
 // for various purposes.
 const res = subtract(10, 2);
 

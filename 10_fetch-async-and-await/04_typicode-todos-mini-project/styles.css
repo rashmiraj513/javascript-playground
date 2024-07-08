@@ -42,7 +42,7 @@ input[type='text'] {
   margin-top: 20px;
 }
 
-#todo-list>div {
+#todo-list > div {
   border: 1px #666 solid;
   padding: 10px;
   margin: 5px;
