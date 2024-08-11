@@ -29,3 +29,7 @@ Welcome to my JavaScript Learning repository! This repository is dedicated to he
 - Tracalorie Project
 - Random Ideas Rest API
 - Random Ideas FrontEnd
+
+## Credits
+
+This repository follows the [Modern JavaScript From The Beginning 2.0 (2024)](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by [Brad Traversy](https://www.udemy.com/user/brad-traversy/).
